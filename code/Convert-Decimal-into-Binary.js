@@ -1,3 +1,8 @@
+/*
+Javascript program to conver decimal numbers into binary number.
+Input: 8
+Output: 1000
+*/
 function decimalToBinary(decimal) {
   var remainder = [];
 

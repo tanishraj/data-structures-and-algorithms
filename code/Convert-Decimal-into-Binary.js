@@ -1,5 +1,5 @@
 /*
-Javascript program to conver decimal numbers into binary number.
+Javascript program to convert decimal numbers into binary number.
 Input: 8
 Output: 1000
 */

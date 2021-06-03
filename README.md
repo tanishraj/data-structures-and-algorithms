@@ -2,13 +2,13 @@
 
 | Total Problems |
 | -------------- |
-| 28             |
+| 29             |
 
 ## Table of Contents
 
 | Date          | Problems                               | Solutions                                                         |
 | ------------- | -------------------------------------- | ----------------------------------------------------------------- |
-| Jul 05 2019   | Create a diamond with stars            | [Create Diamond](./src/diamond-with-star.js)                      |
+| Jul 05 2019   | Convert Decimal into Binary            | [Decimal to Binary](./code/Convert Decimal into Binary.js)                      |
 | Jul 07 2019   | Clean checkbook                        | [Checkbook](./src/checkbook.js)                                   |
 | Jul 09 2019   | Counting valleys                       | [Count Valley](./src/counting-valley.js)                          |
 | Jul 12 2019   | Finding classes in DOM                 | [Find classes in DOM](./src/find-class.js)                        |

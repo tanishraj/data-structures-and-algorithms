@@ -6,33 +6,33 @@
 
 ## Table of Contents
 
-| Date          | Problems                               | Solutions                                                         |
-| ------------- | -------------------------------------- | ----------------------------------------------------------------- |
-| Jul 05 2019   | Convert Decimal into Binary            | [Decimal to Binary](./code/Convert-Decimal-into-Binary.js)                      |
-| Jul 07 2019   | Clean checkbook                        | [Checkbook](./src/checkbook.js)                                   |
-| Jul 09 2019   | Counting valleys                       | [Count Valley](./src/counting-valley.js)                          |
-| Jul 12 2019   | Finding classes in DOM                 | [Find classes in DOM](./src/find-class.js)                        |
-| Jul 21 2019   | Sock Merchant                          | [Sock merchant](./src/sock-merchant.js)                           |
-| Jul 24 2019   | Code comparison                        | [Code comparison](./src/code-comparison.js)                       |
-| Jul 26 2019   | Jumping clouds                         | [Jumping clouds](./src/jumping-clouds.js)                         |
-| Jul 28 2019   | Sort Array                             | [Sort Array](./src/sort-array.js)                                 |
-| Jul 31 2019   | Largest number formaed                 | [Largest Number](./src/largest-number-formed.js)                  |
-| Aug 1 2019    | Format seconds                         | [Format seconds](./src/count-seconds.js)                          |
-| Aug 4 2019    | RegEx: find vowels                     | [Find Vowel](./src/Regexp/find-vowel.js)                          |
-| Aug 4 2019    | RegEx: replace chars                   | [Replace char](./src/Regexp/replace-char.js)                      |
-| Aug 4 2019    | RegEx: Find occurences                 | [Find Occurences](./src/Regexp/find-occurences.js)                |
-| Aug 5 2019    | RegEx: Find first occurence            | [Find first occurence](./src/Regexp/first-find.js)                |
-| Aug 5 2019    | RegEx: Extract numbers                 | [Extract numbers](./src/Regexp/extract-number.js)                 |
-| Aug 11 2019   | Regex: Same vowel start and end        | [Start End Same Vowel](./src/Regexp/start-end-with-same-vowel.js) |
-| Aug 11 2019   | Regex: Some validation                 | [Some validation](./src/Regexp/some-validation.js)                |
-| Aug 11 2019   | Regexp: Trim String                    | [Trim string](./src/Regexp/trim-string.js)                        |
-| Aug 14 2019   | Find perfect square number             | [Square number](./src/isSquareRoot.js)                            |
-| Sep 8 2019    | Find the biggest island                | [Biggest island](./src/biggest-island.js)                         |
-| Sep 10 2019   | Find vowels & constants                | [Vowels & Constants](./src/Regexp/count-vowels.js)                |
-| Sep 17 2019   | Memoise a function                     | [Memoise](./src/memoisation.js)                                   |
-| Sep 29 2019   | Depth of binary tree                   | [Depth of binary tree](./src/Tree/max-depth.js)                   |
-| Oct 7 2019    | Sorted array interection               | [Intersection of sorted array](./src/array-interection.js)        |
-| April 18 2021 | Smallest missing number in an array    | [Smallest missing number](./src/find-smallest-missing-number.js)  |
-| April 21 2021 | Getting a profit from the stock market | [Maximum profit from stocks](./src/maxStockProfit.js)             |
-| April 26 2021 | Implement queue in javascript          | [Queue](./src/LinkedList/queue.js)                                |
-| May 10 2021   | Doubly Linked list                     | [Douly linked list](./src/LinkedList/double_linked-list.js)       |
+| Date        | Problems                                              | Solutions                                                                                 |
+| ----------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| May 05 2021 | Convert Decimal into Binary                           | [Decimal to Binary](./code/Convert-Decimal-into-Binary.js)                                |
+| May 07 2021 | Find Max value in an array                            | [Checkbook](./code/Find-Max-value-in-an-array.js)                                         |
+| May 09 2021 | Find Missing Number in an array                       | [Count Valley](./code/Find-Missing-Number-in-an-array.js)                                 |
+| May 12 2021 | Flatten Array                                         | [Find classes in DOM](./code/Flatten-Array.js)                                            |
+| May 21 2021 | Flatten an array                                      | [Sock merchant](./code/Flatten-an-array.js)                                               |
+| May 24 2021 | MMT: Number of Student Working in time slot           | [Code comparison](./code/MMT:-Number-of-Student-Working-in-time-slot.js)                  |
+| May 26 2021 | Matching Brackets                                     | [Jumping clouds](./code/Matching-Brackets.js)                                             |
+| May 28 2021 | Max Consecutive 1's in Binary Numbers                 | [Sort Array](./code/Max-Consecutive-1's-in-Binary-Numbers.js)                             |
+| May 31 2021 | Max Profit From Stocks                                | [Largest Number](./code/Max-Profit-From-Stocks.js)                                        |
+| Apr 1 2021  | Max Water Saving Between Buildings (Naive)            | [Format seconds](<./code/Max-Water-Saving-Between-Buildings-(Naive).js>)                  |
+| Apr 4 2021  | Max Water Saving Between Buildings                    | [Find Vowel](./code/Max-Water-Saving-Between-Buildings.js)                                |
+| Apr 4 2021  | Maximum Occurance of A char in string                 | [Replace char](./code/Maximum-Occurance-of-A-char-in-string.js)                           |
+| Apr 4 2021  | Min and Max in Array (Naive)                          | [Find Occurences](<./code/Min-and-Max-in-Array-(Naive).js>)                               |
+| Apr 5 2021  | Min and Max in Array (Optimized)                      | [Find first occurence](<./code/Min-and-Max-in-Array-(Optimized).js>)                      |
+| Apr 5 2021  | Minimum Shift To Sit Together                         | [Extract numbers](./code/Minimum-Shift-To-Sit-Together.js)                                |
+| Apr 11 2021 | Move Negative Numbers Before Positive Numbers (Naive) | [Start End Same Vowel](<./code/Move-Negative-Numbers-Before-Positive-Numbers-(Naive).js>) |
+| Apr 11 2021 | Move Negative Numbers Before Positive Numbers         | [Some validation](./code/Move-Negative-Numbers-Before-Positive-Numbers.js)                |
+| Apr 11 2021 | Remove Duplicate and Sort Numbers                     | [Trim string](./code/Remove-Duplicate-and-Sort-Numbers.js)                                |
+| Apr 14 2021 | Remove Duplicates (Naive)                             | [Square number](<./code/Remove-Duplicates-(Naive).js>)                                    |
+| Mar 8 2021  | Reverse Number                                        | [Biggest island](./code/Reverse-Number.js)                                                |
+| Mar 10 2021 | Second Max Occurance                                  | [Vowels & Constants](./code/Second-Max-Occurance.js)                                      |
+| Mar 17 2021 | Second Max Occurrence using Hash Map                  | [Memoise](./code/Second-Max-Occurrence-using-Hash-Map.js)                                 |
+| Mar 29 2021 | Second Most Frequency                                 | [Depth of binary tree](./code/Second-Most-Frequency.js)                                   |
+| Feb 7 2021  | Sort Array of Object By Last name                     | [Intersection of sorted array](./code/Sort-Array-of-Object-By-Last-name.js)               |
+| Feb 18 2021 | Sorting Array of Objects                              | [Smallest missing number](./code/Sorting-Array-of-Objects.js)                             |
+| Feb 21 2021 | SubArray Chunks                                       | [Maximum profit from stocks](./code/SubArray-Chunks.js)                                   |
+| Feb 26 2021 | Subarray Sum (Naive)                                  | [Queue](<./code/Subarray-Sum-(Naive).js>)                                                 |
+| Feb 10 2021 | Warmer Temperature                                    | [Douly linked list](./code/Warmer-Temperature.js)                                         |

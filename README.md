@@ -8,7 +8,7 @@
 
 | Date        | Problems                                              | Solutions                                                                                  |
 | ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| May 10 2021 | w/o conditional statement                             | [Even or Odd](./code/even-or-odd-without-condition.js)                                     |
+| May 10 2021 | Even or Odd w/o conditional statement                 | [Even or Odd](./code/even-or-odd-without-condition.js)                                     |
 | May 05 2021 | Convert Decimal into Binary                           | [Decimal to Binary](./code/Convert-Decimal-into-Binary.js)                                 |
 | May 07 2021 | Find Max value in an array                            | [Find Max value](./code/Find-Max-value-in-an-array.js)                                     |
 | May 09 2021 | Find Missing Number in an array                       | [Find Missing Number](./code/Find-Missing-Number-in-an-array.js)                           |

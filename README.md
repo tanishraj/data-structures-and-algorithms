@@ -38,6 +38,3 @@
 | Feb 26 2021 | Subarray Sum (Naive)                                  | [Subarray Sum](<./code/Subarray-Sum-(Naive).js>)                                           |
 | Feb 10 2021 | Warmer Temperature                                    | [Warmer Temperature](./code/Warmer-Temperature.js)                                         |
 | Feb 10 2021 | Retain Duplicated Numbers                             | [Retain Duplicated Numbers](./code/Retain-Duplicated-Numbers.js)                           |
-| ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Date        | Polyfill Problems                                     | Solutions                                                                                  |
-| ----------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------ |

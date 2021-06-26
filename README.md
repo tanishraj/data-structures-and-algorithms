@@ -38,3 +38,4 @@
 | Feb 26 2021 | Subarray Sum (Naive)                                  | [Subarray Sum](<./code/Subarray-Sum-(Naive).js>)                                           |
 | Feb 10 2021 | Warmer Temperature                                    | [Warmer Temperature](./code/Warmer-Temperature.js)                                         |
 | Feb 10 2021 | Retain Duplicated Numbers                             | [Retain Duplicated Numbers](./code/Retain-Duplicated-Numbers.js)                           |
+| Feb 10 2021 | Sum of SubArray Equals with Number                    | [Sum of SubArray Equals with Number](./code/sum-of-subArray-to-a-value.js)                 |

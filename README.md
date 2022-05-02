@@ -61,3 +61,10 @@
 | ----------- | --------------------------------- |
 | Array map() | [Array map()](./polyfills/map.js) |
 | Promise     | [Promise](./polyfills/promise.js) |
+
+## Solved Leet Problems
+
+| Leet Problems                 | Solution                                              |
+| ----------------------------- | ----------------------------------------------------- |
+| 844. Backspace String Compare | [Code](./leet-solution/844.BackspaceStringCompare.js) |
+| 905. Sort Array By Parity     | [Code](./leet-solution/905.SortArrayByParity.js)      |

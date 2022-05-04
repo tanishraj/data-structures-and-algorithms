@@ -71,3 +71,4 @@
 | 581. Shortest Unsorted Continuous Subarray | [Code](./leet-solution/581.ShortestUnsortedContinuousSubarray) |
 | 1679. Max Number of K-Sum Pairs            | [Code](./leet-solution/1679.MaxNumberofK-SumPairs.js)          |
 | 1. Two Sum                                 | [Code](./leet-solution/1.TwoSum.js)                            |
+| 15. Three Sum                              | [Code](./leet-solution/15.3Sum.js)                             |

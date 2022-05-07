@@ -74,3 +74,4 @@
 | 15. Three Sum                                     | [Code](./leet-solution/15.3Sum.js)                                    |
 | 225. Implement Stack using Queues                 | [Code](./leet-solution/225.ImplementStackusingQueues.js)              |
 | 1209. Remove All Adjacent Duplicates in String II | [Code](./leet-solution/1209.RemoveAllAdjacentDuplicatesinStringII.js) |
+| 9. Palindrome Number                              | [Code](./leet-solution/9.PalindromeNumber.js)                         |

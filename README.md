@@ -9,39 +9,39 @@
 
 ## Leet Code Problems
 
-| Problems                                              | Solution                                                                                   |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Even or Odd w/o conditional statement                 | [Even or Odd](./code/even-or-odd-without-condition.js)                                     |
-| Convert Decimal into Binary                           | [Decimal to Binary](./code/Convert-Decimal-into-Binary.js)                                 |
-| Find Max value in an array                            | [Find Max value](./code/Find-Max-value-in-an-array.js)                                     |
-| Find Missing Number in an array                       | [Find Missing Number](./code/Find-Missing-Number-in-an-array.js)                           |
-| Flatten Array                                         | [Flatten Array](./code/Flatten-Array.js)                                                   |
-| Flatten an array                                      | [Flatten an array](./code/Flatten-an-array.js)                                             |
-| Number of Student Working in time slot                | [Number of Student Working](./code/MMT:-Number-of-Student-Working-in-time-slot.js)         |
-| Matching Brackets                                     | [Matching Brackets](./code/Matching-Brackets.js)                                           |
-| Max Consecutive 1's in Binary Numbers                 | [Max Consecutive 1's](./code/Max-Consecutive-1's-in-Binary-Numbers.js)                     |
-| Max Profit From Stocks                                | [Max Profit](./code/Max-Profit-From-Stocks.js)                                             |
-| Max Water Saving Between Buildings (Naive)            | [Max Water Saving](<./code/Max-Water-Saving-Between-Buildings-(Naive).js>)                 |
-| Max Water Saving Between Buildings                    | [Max Water Saving](./code/Max-Water-Saving-Between-Buildings.js)                           |
-| Maximum Occurance of A char in string                 | [Maximum Occurance](./code/Maximum-Occurance-of-A-char-in-string.js)                       |
-| Min and Max in Array (Naive)                          | [Min and Max](<./code/Min-and-Max-in-Array-(Naive).js>)                                    |
-| Min and Max in Array (Optimized)                      | [Min and Max](<./code/Min-and-Max-in-Array-(Optimized).js>)                                |
-| Minimum Shift To Sit Together                         | [Minimum Shift](./code/Minimum-Shift-To-Sit-Together.js)                                   |
-| Move Negative Numbers Before Positive Numbers (Naive) | [Move Negative Numbers](<./code/Move-Negative-Numbers-Before-Positive-Numbers-(Naive).js>) |
-| Move Negative Numbers Before Positive Numbers         | [Move Negative Numbers](./code/Move-Negative-Numbers-Before-Positive-Numbers.js)           |
-| Remove Duplicate and Sort Numbers                     | [Remove Duplicate](./code/Remove-Duplicate-and-Sort-Numbers.js)                            |
-| Remove Duplicates (Naive)                             | [Remove Duplicates](<./code/Remove-Duplicates-(Naive).js>)                                 |
-| Reverse Number                                        | [Reverse Number](./code/Reverse-Number.js)                                                 |
-| Second Max Occurance                                  | [Second Max Occurance](./code/Second-Max-Occurance.js)                                     |
-| Second Max Occurrence using Hash Map                  | [Second Max Occurrence](./code/Second-Max-Occurrence-using-Hash-Map.js)                    |
-| Second Most Frequency                                 | [Second Most Frequency](./code/Second-Most-Frequency.js)                                   |
-| Sort Array of Object By Last name                     | [Sort Array of Object](./code/Sort-Array-of-Object-By-Last-name.js)                        |
-| Sorting Array of Objects                              | [Sorting Array of Objects](./code/Sorting-Array-of-Objects.js)                             |
-| SubArray Chunks                                       | [SubArray Chunks](./code/SubArray-Chunks.js)                                               |
-| Subarray Sum (Naive)                                  | [Subarray Sum](<./code/Subarray-Sum-(Naive).js>)                                           |
-| Warmer Temperature                                    | [Warmer Temperature](./code/Warmer-Temperature.js)                                         |
-| Retain Duplicated Numbers                             | [Retain Duplicated Numbers](./code/Retain-Duplicated-Numbers.js)                           |
-| Sum of SubArray Equals with Number                    | [Sum of SubArray Equals with Number](./code/sum-of-subArray-to-a-value.js)                 |
+| Problems                                              | Solution                                                                                                  |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Even or Odd w/o conditional statement                 | [Even or Odd](./javascript-problems/even-or-odd-without-condition.js)                                     |
+| Convert Decimal into Binary                           | [Decimal to Binary](./javascript-problems/Convert-Decimal-into-Binary.js)                                 |
+| Find Max value in an array                            | [Find Max value](./javascript-problems/Find-Max-value-in-an-array.js)                                     |
+| Find Missing Number in an array                       | [Find Missing Number](./javascript-problems/Find-Missing-Number-in-an-array.js)                           |
+| Flatten Array                                         | [Flatten Array](./javascript-problems/Flatten-Array.js)                                                   |
+| Flatten an array                                      | [Flatten an array](./javascript-problems/Flatten-an-array.js)                                             |
+| Number of Student Working in time slot                | [Number of Student Working](./javascript-problems/MMT:-Number-of-Student-Working-in-time-slot.js)         |
+| Matching Brackets                                     | [Matching Brackets](./javascript-problems/Matching-Brackets.js)                                           |
+| Max Consecutive 1's in Binary Numbers                 | [Max Consecutive 1's](./javascript-problems/Max-Consecutive-1's-in-Binary-Numbers.js)                     |
+| Max Profit From Stocks                                | [Max Profit](./javascript-problems/Max-Profit-From-Stocks.js)                                             |
+| Max Water Saving Between Buildings (Naive)            | [Max Water Saving](<./javascript-problems/Max-Water-Saving-Between-Buildings-(Naive).js>)                 |
+| Max Water Saving Between Buildings                    | [Max Water Saving](./javascript-problems/Max-Water-Saving-Between-Buildings.js)                           |
+| Maximum Occurance of A char in string                 | [Maximum Occurance](./javascript-problems/Maximum-Occurance-of-A-char-in-string.js)                       |
+| Min and Max in Array (Naive)                          | [Min and Max](<./javascript-problems/Min-and-Max-in-Array-(Naive).js>)                                    |
+| Min and Max in Array (Optimized)                      | [Min and Max](<./javascript-problems/Min-and-Max-in-Array-(Optimized).js>)                                |
+| Minimum Shift To Sit Together                         | [Minimum Shift](./javascript-problems/Minimum-Shift-To-Sit-Together.js)                                   |
+| Move Negative Numbers Before Positive Numbers (Naive) | [Move Negative Numbers](<./javascript-problems/Move-Negative-Numbers-Before-Positive-Numbers-(Naive).js>) |
+| Move Negative Numbers Before Positive Numbers         | [Move Negative Numbers](./javascript-problems/Move-Negative-Numbers-Before-Positive-Numbers.js)           |
+| Remove Duplicate and Sort Numbers                     | [Remove Duplicate](./javascript-problems/Remove-Duplicate-and-Sort-Numbers.js)                            |
+| Remove Duplicates (Naive)                             | [Remove Duplicates](<./javascript-problems/Remove-Duplicates-(Naive).js>)                                 |
+| Reverse Number                                        | [Reverse Number](./javascript-problems/Reverse-Number.js)                                                 |
+| Second Max Occurance                                  | [Second Max Occurance](./javascript-problems/Second-Max-Occurance.js)                                     |
+| Second Max Occurrence using Hash Map                  | [Second Max Occurrence](./javascript-problems/Second-Max-Occurrence-using-Hash-Map.js)                    |
+| Second Most Frequency                                 | [Second Most Frequency](./javascript-problems/Second-Most-Frequency.js)                                   |
+| Sort Array of Object By Last name                     | [Sort Array of Object](./javascript-problems/Sort-Array-of-Object-By-Last-name.js)                        |
+| Sorting Array of Objects                              | [Sorting Array of Objects](./javascript-problems/Sorting-Array-of-Objects.js)                             |
+| SubArray Chunks                                       | [SubArray Chunks](./javascript-problems/SubArray-Chunks.js)                                               |
+| Subarray Sum (Naive)                                  | [Subarray Sum](<./javascript-problems/Subarray-Sum-(Naive).js>)                                           |
+| Warmer Temperature                                    | [Warmer Temperature](./javascript-problems/Warmer-Temperature.js)                                         |
+| Retain Duplicated Numbers                             | [Retain Duplicated Numbers](./javascript-problems/Retain-Duplicated-Numbers.js)                           |
+| Sum of SubArray Equals with Number                    | [Sum of SubArray Equals with Number](./javascript-problems/sum-of-subArray-to-a-value.js)                 |
 
 ## Data Structure Problems
 
@@ -80,3 +80,4 @@
 | 62. Unique Paths                                              | [Code](./leet-solution/62.UniquePaths.js)                                         |
 | 322. Coin Change                                              | [Code](./leet-solution/322.CoinChange.js)                                         |
 | 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | [Code](./leet-solution/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.js) |
+| 26. Remove Duplicates from Sorted Array                       | [Code](./leet-solution/26.Remove_Duplicates_from_Sorted_Array.js)                 |

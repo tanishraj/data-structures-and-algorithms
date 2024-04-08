@@ -81,3 +81,4 @@
 | 322. Coin Change                                              | [Code](./leet-solution/322.CoinChange.js)                                         |
 | 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | [Code](./leet-solution/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.js) |
 | 26. Remove Duplicates from Sorted Array                       | [Code](./leet-solution/26.Remove_Duplicates_from_Sorted_Array.js)                 |
+| 27. Remove Elements                                           | [Code](./leet-solution/27.Remove_Element.js)                                      |

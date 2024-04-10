@@ -139,3 +139,49 @@ function findFinalScore(ops) {
 var ops = ["5", "-2", "4", "C", "D", "9", "+", "+"];
 var ops = ["1", "C"];
 console.log(findFinalScore(ops));
+
+// ANOTHER SOLUTION
+
+function findFinalScore(ops) {
+  const stack = [];
+  var sum = 0;
+
+  for (let i = 0; i < ops.length; i++) {
+    switch (ops[i]) {
+      case "+":
+        {
+          const last = stack[stack.length - 1] ?? 0;
+          const secondLast = stack[stack.length - 2] ?? 0;
+          stack.push(last + secondLast);
+          sum = sum + last + secondLast;
+        }
+        break;
+
+      case "C":
+        {
+          const last = stack.pop();
+          sum -= last;
+        }
+        break;
+
+      case "D":
+        {
+          const last = stack[stack.length - 1] ?? 0;
+          stack.push(last * 2);
+          sum += last * 2;
+        }
+        break;
+
+      default:
+        stack.push(Number(ops[i]));
+        sum = sum + Number(ops[i]);
+        break;
+    }
+  }
+
+  return sum;
+}
+
+var ops = ["5", "-2", "4", "C", "D", "9", "+", "+"];
+var ops = ["1", "C"];
+console.log(findFinalScore(ops));

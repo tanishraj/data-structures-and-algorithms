@@ -57,10 +57,12 @@
 
 ## Polyfills
 
-| Polyfills   | Solution                          |
-| ----------- | --------------------------------- |
-| Array map() | [Array map()](./polyfills/map.js) |
-| Promise     | [Promise](./polyfills/promise.js) |
+| Polyfills   | Solution                              |
+| ----------- | ------------------------------------- |
+| Array map() | [Array map()](./polyfills/map.js)     |
+| Promise     | [Promise](./polyfills/promise.js)     |
+| Promise.all | [Promise](./polyfills/promise.all.js) |
+| Reduce      | [Promise](./polyfills/reduce.js)      |
 
 ## Solved Leet Problems
 

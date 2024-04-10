@@ -62,7 +62,7 @@ For operation "+", there will always be at least two previous scores on the reco
 For operations "C" and "D", there will always be at least one previous score on the record.
  */
 
-const utilities = {
+var utilities = {
   "+": function (stack) {
     const last = stack[stack.length - 1] ?? 0;
     const secondLast = stack[stack.length - 2] ?? 0;
@@ -96,4 +96,46 @@ function findFinalScore(ops) {
 }
 
 var ops = ["5", "-2", "4", "C", "D", "9", "+", "+"];
+console.log(findFinalScore(ops));
+
+// Better Approach
+
+// BETTER APPROACH
+
+var utilities = {
+  sum: 0,
+  "+": function (stack) {
+    const last = stack[stack.length - 1] ?? 0;
+    const secondLast = stack[stack.length - 2] ?? 0;
+    stack.push(last + secondLast);
+    this.sum += last + secondLast;
+  },
+  C: function (stack) {
+    const last = stack.pop();
+    this.sum -= last;
+  },
+  D: function (stack) {
+    const last = stack[stack.length - 1] ?? 0;
+    stack.push(last * 2);
+    this.sum += last * 2;
+  },
+};
+
+function findFinalScore(ops) {
+  const stack = [];
+
+  for (let i = 0; i < ops.length; i++) {
+    if (!isNaN(ops[i])) {
+      stack.push(Number(ops[i]));
+      utilities.sum = utilities.sum + Number(ops[i]);
+    } else {
+      utilities[ops[i]](stack);
+    }
+  }
+
+  return utilities.sum;
+}
+
+var ops = ["5", "-2", "4", "C", "D", "9", "+", "+"];
+var ops = ["1", "C"];
 console.log(findFinalScore(ops));

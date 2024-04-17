@@ -24,6 +24,14 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 var x = 121;
 
+// ONE LINER APPROACH
+var isPalindrome = function (x) {
+  return x.toString() === x.toString().split("").reverse().join("");
+};
+
+console.log(isPalindrome(x));
+
+// NAIVE APPROACH
 var isPalindrome = function (x) {
   var str = String(x);
   var start = 0;

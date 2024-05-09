@@ -84,5 +84,7 @@
 | 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | [Code](./leet-solution/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.js) |
 | 26. Remove Duplicates from Sorted Array                       | [Code](./leet-solution/26.Remove_Duplicates_from_Sorted_Array.js)                 |
 | 27. Remove Elements                                           | [Code](./leet-solution/27.Remove_Element.js)                                      |
-| 682. Baseball Game                                            | [Code](./leet-solution/682.Baseball_Game)                                         |
-| 707. Design Linked List                                       | [Code](./leet-solution/707.Design_Linked_List)                                    |
+| 682. Baseball Game                                            | [Code](./leet-solution/682.Baseball_Game.js)                                      |
+| 707. Design Linked List                                       | [Code](./leet-solution/707.Design_Linked_List.js)                                 |
+| 1472. Design Browser History                                  | [Code](./leet-solution/1472.Design_Browser_History.js)                            |
+| 125. Valid Palindrome                                         | [Code](./leet-solution/125.Valid_Palindrome.js)                                   |
